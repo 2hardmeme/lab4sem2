@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<ArrayOfAnimalRooms xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <AnimalRooms>
+    <AccUnits />
+    <RoomType>
+      <room>Aquarium</room>
+    </RoomType>
+    <Number>0</Number>
+    <Size>4</Size>
+    <ClearPrice>3</ClearPrice>
+  </AnimalRooms>
+  <AnimalRooms>
+    <AccUnits>
+      <AccountingUnit>
+        <Animal>
+          <AnimalName>we</AnimalName>
+          <Country>we</Country>
+          <Name>we</Name>
+          <BirthDay>2021-05-03T00:00:00</BirthDay>
+        </Animal>
+        <RecieveDate>2021-05-26T00:00:00</RecieveDate>
+        <Price>345</Price>
+      </AccountingUnit>
+    </AccUnits>
+    <RoomType>
+      <room>Aquarium</room>
+    </RoomType>
+    <Number>1</Number>
+    <Size>1</Size>
+    <ClearPrice>65</ClearPrice>
+  </AnimalRooms>
+</ArrayOfAnimalRooms>

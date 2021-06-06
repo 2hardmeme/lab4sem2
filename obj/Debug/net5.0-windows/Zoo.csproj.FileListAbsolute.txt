@@ -1,0 +1,52 @@
+C:\Users\Xiaomi\source\repos\Zoo\bin\Debug\net5.0-windows\Zoo.exe
+C:\Users\Xiaomi\source\repos\Zoo\bin\Debug\net5.0-windows\Zoo.deps.json
+C:\Users\Xiaomi\source\repos\Zoo\bin\Debug\net5.0-windows\Zoo.runtimeconfig.json
+C:\Users\Xiaomi\source\repos\Zoo\bin\Debug\net5.0-windows\Zoo.runtimeconfig.dev.json
+C:\Users\Xiaomi\source\repos\Zoo\bin\Debug\net5.0-windows\Zoo.dll
+C:\Users\Xiaomi\source\repos\Zoo\bin\Debug\net5.0-windows\ref\Zoo.dll
+C:\Users\Xiaomi\source\repos\Zoo\bin\Debug\net5.0-windows\Zoo.pdb
+C:\Users\Xiaomi\source\repos\Zoo\obj\Debug\net5.0-windows\Zoo.csprojAssemblyReference.cache
+C:\Users\Xiaomi\source\repos\Zoo\obj\Debug\net5.0-windows\CreateRooms.g.cs
+C:\Users\Xiaomi\source\repos\Zoo\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Xiaomi\source\repos\Zoo\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Xiaomi\source\repos\Zoo\obj\Debug\net5.0-windows\Zoo_MarkupCompile.cache
+C:\Users\Xiaomi\source\repos\Zoo\obj\Debug\net5.0-windows\Zoo_MarkupCompile.lref
+C:\Users\Xiaomi\source\repos\Zoo\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Xiaomi\source\repos\Zoo\obj\Debug\net5.0-windows\CreateRooms.baml
+C:\Users\Xiaomi\source\repos\Zoo\obj\Debug\net5.0-windows\Zoo.g.resources
+C:\Users\Xiaomi\source\repos\Zoo\obj\Debug\net5.0-windows\Zoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xiaomi\source\repos\Zoo\obj\Debug\net5.0-windows\Zoo.AssemblyInfoInputs.cache
+C:\Users\Xiaomi\source\repos\Zoo\obj\Debug\net5.0-windows\Zoo.AssemblyInfo.cs
+C:\Users\Xiaomi\source\repos\Zoo\obj\Debug\net5.0-windows\Zoo.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\source\repos\Zoo\obj\Debug\net5.0-windows\Zoo.dll
+C:\Users\Xiaomi\source\repos\Zoo\obj\Debug\net5.0-windows\ref\Zoo.dll
+C:\Users\Xiaomi\source\repos\Zoo\obj\Debug\net5.0-windows\Zoo.pdb
+C:\Users\Xiaomi\source\repos\Zoo\obj\Debug\net5.0-windows\Zoo.genruntimeconfig.cache
+C:\Users\Xiaomi\source\repos\Zoo\obj\Debug\net5.0-windows\CreateUnit.g.cs
+C:\Users\Xiaomi\source\repos\Zoo\obj\Debug\net5.0-windows\CreateUnit.baml
+E:\University\ООП\2 семестр\4 laba\Zoo\Zoo\bin\Debug\net5.0-windows\Zoo.exe
+E:\University\ООП\2 семестр\4 laba\Zoo\Zoo\bin\Debug\net5.0-windows\Zoo.deps.json
+E:\University\ООП\2 семестр\4 laba\Zoo\Zoo\bin\Debug\net5.0-windows\Zoo.runtimeconfig.json
+E:\University\ООП\2 семестр\4 laba\Zoo\Zoo\bin\Debug\net5.0-windows\Zoo.runtimeconfig.dev.json
+E:\University\ООП\2 семестр\4 laba\Zoo\Zoo\bin\Debug\net5.0-windows\Zoo.dll
+E:\University\ООП\2 семестр\4 laba\Zoo\Zoo\bin\Debug\net5.0-windows\ref\Zoo.dll
+E:\University\ООП\2 семестр\4 laba\Zoo\Zoo\bin\Debug\net5.0-windows\Zoo.pdb
+E:\University\ООП\2 семестр\4 laba\Zoo\Zoo\obj\Debug\net5.0-windows\Zoo.csprojAssemblyReference.cache
+E:\University\ООП\2 семестр\4 laba\Zoo\Zoo\obj\Debug\net5.0-windows\CreateRooms.g.cs
+E:\University\ООП\2 семестр\4 laba\Zoo\Zoo\obj\Debug\net5.0-windows\CreateUnit.g.cs
+E:\University\ООП\2 семестр\4 laba\Zoo\Zoo\obj\Debug\net5.0-windows\MainWindow.g.cs
+E:\University\ООП\2 семестр\4 laba\Zoo\Zoo\obj\Debug\net5.0-windows\App.g.cs
+E:\University\ООП\2 семестр\4 laba\Zoo\Zoo\obj\Debug\net5.0-windows\Zoo_MarkupCompile.cache
+E:\University\ООП\2 семестр\4 laba\Zoo\Zoo\obj\Debug\net5.0-windows\Zoo_MarkupCompile.lref
+E:\University\ООП\2 семестр\4 laba\Zoo\Zoo\obj\Debug\net5.0-windows\CreateRooms.baml
+E:\University\ООП\2 семестр\4 laba\Zoo\Zoo\obj\Debug\net5.0-windows\CreateUnit.baml
+E:\University\ООП\2 семестр\4 laba\Zoo\Zoo\obj\Debug\net5.0-windows\MainWindow.baml
+E:\University\ООП\2 семестр\4 laba\Zoo\Zoo\obj\Debug\net5.0-windows\Zoo.g.resources
+E:\University\ООП\2 семестр\4 laba\Zoo\Zoo\obj\Debug\net5.0-windows\Zoo.GeneratedMSBuildEditorConfig.editorconfig
+E:\University\ООП\2 семестр\4 laba\Zoo\Zoo\obj\Debug\net5.0-windows\Zoo.AssemblyInfoInputs.cache
+E:\University\ООП\2 семестр\4 laba\Zoo\Zoo\obj\Debug\net5.0-windows\Zoo.AssemblyInfo.cs
+E:\University\ООП\2 семестр\4 laba\Zoo\Zoo\obj\Debug\net5.0-windows\Zoo.csproj.CoreCompileInputs.cache
+E:\University\ООП\2 семестр\4 laba\Zoo\Zoo\obj\Debug\net5.0-windows\Zoo.dll
+E:\University\ООП\2 семестр\4 laba\Zoo\Zoo\obj\Debug\net5.0-windows\ref\Zoo.dll
+E:\University\ООП\2 семестр\4 laba\Zoo\Zoo\obj\Debug\net5.0-windows\Zoo.pdb
+E:\University\ООП\2 семестр\4 laba\Zoo\Zoo\obj\Debug\net5.0-windows\Zoo.genruntimeconfig.cache
